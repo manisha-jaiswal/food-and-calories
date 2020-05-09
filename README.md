@@ -1,6 +1,6 @@
 # food-and-calories
 
-You visit a restaurant called CodeWithHarry and food items in this restaurant are sorted based on their amount of calories. You have to 
+You visit a restaurant called Manisha and food items in this restaurant are sorted based on their amount of calories. You have to 
 
 reverse this list of food items containing their calories.
 
